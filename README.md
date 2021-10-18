@@ -1,3 +1,11 @@
+1- Run "npm i" to install all dev dependencies
+
+2- Run "ng serve" to run project locally.
+
+Thanks.
+
+Happy Codding :)
+
 # EmployeeInOut
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
