@@ -1,0 +1,12 @@
+mat-card {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+
+  mat-card-title,
+  mat-card-actions,
+  .employee_name {
+    padding-left: 1rem;
+  }
+}
